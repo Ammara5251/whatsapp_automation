@@ -1,0 +1,5 @@
+Salaam {fullname}.
+
+Please update your profile data via data update drive 2.0 module.
+
+If you require assistance, please contact ....
